@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Shop"
+    "\\Shop",
+    "\\Shop.DataAccess",
+    "\\Shop.DataAccess\\Data"
   ],
-  "SelectedNode": "\\Shop\\Shop.sln",
+  "SelectedNode": "\\Shop\\Shop.csproj",
   "PreviewInSolutionExplorer": false
 }
