@@ -1,0 +1,3 @@
+[submodule "Shop"]
+	path = Shop
+	url = https://github.com/igorStudia/Shop.git
